@@ -1,7 +1,7 @@
 /**
- * @student 2013665
- * @author Jinger Perez
- * @email fekieejin@hotmail.com
+ * @student xxxxx
+ * @author fekiee
+ * @email xxxxxxxx@xxxxx.com
  *****************************************************************************************************************************************/
 
 public class Student {
